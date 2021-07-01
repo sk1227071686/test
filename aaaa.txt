@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 branch2
+=======
+branch1
+>>>>>>> 77c2b168189718c2bb6c929f2131861c9a0aabe2
